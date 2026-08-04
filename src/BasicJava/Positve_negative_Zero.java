@@ -1,6 +1,4 @@
-package day_1;
-
-import com.sun.security.jgss.GSSUtil;
+package BasicJava;
 
 import java.util.Scanner;
 

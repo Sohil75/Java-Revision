@@ -1,4 +1,4 @@
-package day_1;
+package BasicJava;
 
 public class ArmstrongNumber {
     public static void main(String[] args) {

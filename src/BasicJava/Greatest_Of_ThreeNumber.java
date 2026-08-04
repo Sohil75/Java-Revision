@@ -1,7 +1,6 @@
-package day_1;
+package BasicJava;
 
 import java.util.Scanner;
-import java.util.logging.SocketHandler;
 
 public class Greatest_Of_ThreeNumber {
     public static void main(String[] args) {

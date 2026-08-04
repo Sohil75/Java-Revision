@@ -7,6 +7,18 @@ public class BankingProject {
     static int pin =4125;
     static int accountNumber = 4545468;
     int balance =0;
+    static void deposit(){
+        System.out.println("Deposit");
+    }
+    static void withdraw(){
+        System.out.println("Withdraw");
+    }
+    static void checkBalance(){
+        System.out.println("CheckBalance");
+    }
+    static void exit(){
+        System.out.println("Exit");
+    }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Welcome to the Online Indian Banking.... ");
@@ -24,19 +36,19 @@ public class BankingProject {
             int option = sc.nextInt();
             switch (option){
                 case 1: {
-                    System.out.println("deposit");
+                    deposit();
                     break;
                 }
                 case 2: {
-                    System.out.println("withdraw");
+                    withdraw();
                     break;
                 }
                 case 3:{
-                    System.out.println("checkbalance");
+                    checkBalance();
                     break;
                 }
                 default:{
-                    System.out.println("Exit");
+                    exit();
                 }
 
             }

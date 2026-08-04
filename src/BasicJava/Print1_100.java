@@ -1,4 +1,4 @@
-package day_1;
+package BasicJava;
 
 public class Print1_100 {
     public static void main(String[] args) {
