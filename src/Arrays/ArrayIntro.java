@@ -21,12 +21,15 @@ public class ArrayIntro {
         }
         return sum;
     }
-    static int avgOfArray(int[] arr){
-        int avg=0;
+    static double avgOfArray(int[] arr){
+        double avg=0;
         int sum =sumOfArray(arr);
-        for(int i =0;i<arr.length;i++){
-            avg = sum/arr.length;
+        if(arr.length==0){
+            System.out.println("Cannot calculate average of an empty array.");
         }
+//        avg = sum/arr.length;
+        avg = (double)sum/arr.length;
+
         return avg;
     }
 

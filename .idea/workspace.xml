@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="405cd587-dd6a-476d-8514-2f584769954c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayIntro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BankingProject/BankingProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankingProject/BankingProject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_1/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicJava/ArmstrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_1/CountDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicJava/CountDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_1/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicJava/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_1/Greatest_Of_ThreeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicJava/Greatest_Of_ThreeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_1/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicJava/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_1/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicJava/PalindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_1/Positve_negative_Zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicJava/Positve_negative_Zero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_1/Print1_100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicJava/Print1_100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_1/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicJava/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_1/even_odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicJava/even_odd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_1/sumOfFirstN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicJava/sumOfFirstN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_1/vowels_consonant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicJava/vowels_consonant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/ArrayIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/ArrayIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/LargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/LargestElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +40,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayIntro">
+  <component name="RunManager" selected="Application.LargestElement">
     <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicJava.ArmstrongNumber" />
       <module name="Java_revesion" />
@@ -92,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicJava.CountDigit" />
+    <configuration name="LargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.LargestElement" />
       <module name="Java_revesion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicJava.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestElement" />
         <item itemvalue="Application.ArrayIntro" />
         <item itemvalue="Application.BankingProject" />
         <item itemvalue="Application.ArmstrongNumber" />
         <item itemvalue="Application.PalindromeNumber" />
-        <item itemvalue="Application.CountDigit" />
       </list>
     </recent_temporary>
   </component>
