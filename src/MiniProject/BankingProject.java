@@ -1,4 +1,4 @@
-package BankingProject;
+package MiniProject;
 
 import java.util.Scanner;
 
