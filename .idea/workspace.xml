@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="405cd587-dd6a-476d-8514-2f584769954c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MiniProject/StudentMarksReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankingProject/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankingProject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankingProject/SavingAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BankingProject/BankingProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniProject/BankingProject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StudentMarksReport">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CapitalizeFirstLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.CapitalizeFirstLetter" />
       <module name="Java_revesion" />
@@ -68,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.RemoveSpaces" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankingProject.Main" />
       <module name="Java_revesion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="BankingProject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.StudentMarksReport" />
         <item itemvalue="Application.CountUpperCaseLowerCase" />
         <item itemvalue="Application.CapitalizeFirstLetter" />
         <item itemvalue="Application.ReplaceChar" />
-        <item itemvalue="Application.RemoveSpaces" />
       </list>
     </recent_temporary>
   </component>
